@@ -18,19 +18,22 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Data Cleaning, Management and Quality Control; Reproducible Research (inc interactive HTML or standard PDF outputs); Analysis & Visualisation; Writing Functions"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Biostatistics & Bioinformatics"
+  description = "Univariate and Multivariate Statistics; Discriminant Analyses; Glycomics; Genomics; Transcriptomics; Data Integration"  
   
+
+# Uncomment to use emoji icons.
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = ":woman_health_worker:"
+  icon_pack = "emoji" 
+  name = "Medical Research"
+  description = "Suboptimal Health Status and Age-Related Chronic Disorders"  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
