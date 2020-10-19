@@ -15,7 +15,7 @@ role: Postdoctoral Research Fellow in Bioinformatics and Precision Health
 # Organizations/Affiliations
 organizations:
 - name: Edith Cowan University
-  url: "https://ecu.edu.au"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include glycomics, biostatistics and suboptimal health status.
