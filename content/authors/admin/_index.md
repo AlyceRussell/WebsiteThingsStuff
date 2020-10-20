@@ -52,7 +52,7 @@ social:
   link: mailto:a.russell@ecu.edu.au  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/nerdrusty
+  link: https://twitter.com/nerdrusty/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IYbHiK8AAAAJ&hl=en&oi=ao/
@@ -64,7 +64,7 @@ social:
 # To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: /static/files/cv.pdf
+   link: cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
