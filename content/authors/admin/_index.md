@@ -65,9 +65,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf/
+# - icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -86,3 +86,5 @@ highlight_name: false
 Dr Alyce Russell is a Postdoctoral Research Fellow in the School of Medical and Health Sciences at Edith Cowan University within Prof Wei Wang’s and A/Prof Simon Laws’ research teams. She is a medical scientist specialising in biostatistics who became an R enthusiast along her journey, and subsequently co-founded R-Ladies Perth in 2018. 
 
 Her research is placed in the rapidly growing nexus of glycomics, biostatistics and suboptimal health status. Dr Russell currently supervises four PhD candidates, will commence unit coordination in semester 1 2021, and coordinates three of her own research projects. She regularly collaborates on other research projects by assisting with study design, data management and quality control, data analysis and visualisation, and reporting.
+
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
